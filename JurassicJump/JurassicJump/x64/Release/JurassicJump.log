@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(307,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(308,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(387,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(396,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(402,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(411,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(421,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(458,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(466,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(510,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(510,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 312 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JurassicJump.vcxproj -> C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\x64\Release\JurassicJump.exe

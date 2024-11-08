@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(214,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\JurassicJump\main.cpp(215,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  JurassicJump.vcxproj -> C:\Users\VIVOBOOK\Documents\S6 PROYEK GAME\JurassicJump\x64\Debug\JurassicJump.exe
